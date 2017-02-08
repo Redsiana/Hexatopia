@@ -1,5 +1,5 @@
 ### when the juveniles go see further if grass is greener there
-
+## et donc, on test git-hub
 # input: newbabyR, newbabyB, dispersal kernel, sex, repro
 # output: newpopR, newpopB, newRB, coordalive
 
